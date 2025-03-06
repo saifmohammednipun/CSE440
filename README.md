@@ -1,4 +1,4 @@
-# CSE440-Artificial-Intelligence
+# CSE440 Artificial Intelligence
 
 ## Course Information
 * Instructor: Mohammad Shifat-E-Rabbi (MSRb)
